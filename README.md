@@ -52,4 +52,4 @@ ruby main.rb
 
 ## Acknowledgments
 
-This project was built following the [Ruby tutorial by Codemy.com](https://www.youtube.com/watch?v=MXlZCgh2M6A) on YouTube.
+This project was built following the [Ruby tutorial by Best Tutorials](https://www.youtube.com/watch?v=MXlZCgh2M6A) on YouTube.
