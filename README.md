@@ -27,9 +27,12 @@ Amount: 0.5
 --------------------------------------------------
 ```
 
-## Getting Started
+## Prerequisites
 
-**Requirements:** Ruby 2.7+
+- Ruby 2.7+
+- [CryptoCompare API key](https://www.cryptocompare.com/cryptopian/api-keys)
+
+## Getting Started
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/cryptocurrency_converter
@@ -43,7 +46,7 @@ ruby main.rb
 - `manager.rb` - Business logic and API fetching
 - `coin.rb` - Coin model
 
-## What I Learned
+## What I Explored
 
 - Fetching and parsing live API data with `net/http` and `json`
 - Object-oriented Ruby design with classes
